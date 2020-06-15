@@ -2,7 +2,7 @@
 template: BlogPost
 path: /NodeJs
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: Building a simple CLI Application.
 metaDescription: A Command Line Interface application for cryptocurrency price checking
 thumbnail: /assets/ULymZgTLGLwUSv7ADBQh_building-cli-apps-with-node.webp
 ---
