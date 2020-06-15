@@ -1,9 +1,9 @@
 {
   "title": "SirFreeman",
   "siteUrl": "https://nueljoe.com/",
-  "description": "",
+  "description": "My Portofolio",
   "home": {
     "title": "Hi! I'm Emmanuel",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "description": "I've worked for startups in eCommerce and blogging, done interesting freelance work as part of the collective Hello world, and now i currently work on open source projects. I Have worked with very technologies such as AdonisJs(NodeJs), ExpressJs, ReactJS, Laravel, RabbitMq Python. I have Built a couple of fintect applications, educational and ecommerce application.\n  "
   }
 }
