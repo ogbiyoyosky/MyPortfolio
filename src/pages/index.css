@@ -1,0 +1,163 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+  --text-opacity: 1;
+  color: #949495;
+  color: rgba(148, 148, 149, var(--text-opacity));
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a {
+  background-color: transparent;
+}
+
+.github-repo_grid {
+  display: grid;
+  grid-gap: 32px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.github-repo {
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+  transition: all .2s ease-in-out;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  --bg-opacity: 1;
+  background-color: #202022;
+  background-color: rgba(32, 32, 34, var(--bg-opacity));
+}
+
+.d-block {
+  display: block;
+}
+
+.p-40 {
+  padding: 40px;
+}
+
+.tracking-widest {
+  letter-spacing: 3px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.text-zenith {
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+}
+
+.text-xs {
+  font-size: 10px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.mt-8 {
+  margin-top: 8px;
+}
+
+.leading-tight {
+  line-height: 1.25;
+}
+
+.text-lg {
+  font-size: 24px;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.text-dawn {
+  --text-opacity: 1;
+  color: #949495;
+  color: rgba(148, 148, 149, var(--text-opacity));
+}
+
+.text-base {
+  font-size: 14px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-16 {
+  width: 16px;
+}
+
+.p-2 {
+  padding: 2px;
+}
+
+.mr-4 {
+  margin-right: 4px;
+}
+
+.h-16 {
+  height: 16px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.fill-current {
+  fill: currentColor;
+}
+
+.-mt-px {
+  margin-top: -1px;
+}
+
+.h-full {
+  height: 100%;
+}
+
+img,
+svg,
+video {
+  display: block;
+  vertical-align: middle;
+}
+
+.tracking-wider {
+  letter-spacing: 2px;
+}
+
+.mt-2 {
+  margin-top: 2px;
+}
+
+.leading-none {
+  line-height: 1;
+}
+
+.text-xs {
+  font-size: 10px;
+}
+
+@media (min-width: 992px) {
+  .github-repo:hover {
+    transform: scale(1.1);
+  }
+}
