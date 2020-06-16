@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /ReactJS
+path: /React-js-modals
 date: 2020-06-15T10:59:09.706Z
-title: Building a resuable modal in React
+title: Building a reusable modal in React
 metaDescription: Building a reusable modal
 thumbnail: /assets/the-rising-popularity-of-reactjs-in-the-it-industry.png
 ---
