@@ -20,10 +20,12 @@ const IndexPage = ({
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   React.useEffect(() => {
+   // 13bb3c8f9548740b8e1602fd6b5be2cf06dcbc23
     fetch(`https://api.github.com/users/ogbiyoyosky/repos`,{
       method: "GET",
       headers: {
-        Accept: "application/vnd.github.cloak.preview"
+        Accept: "application/vnd.github.cloak.preview",
+        authorization: "token 13bb3c8f9548740b8e1602fd6b5be2cf06dcbc23"
       }
     })
     .then(res=> res.json())
@@ -31,8 +33,8 @@ const IndexPage = ({
       setRepos(data)
       console.log(repos)
     }).catch(error => console.log(error))
-  })
-  const slicedRepo = repos
+  }, [])
+  const slicedRepo = repos.filter((data) => data.name != "instachaw.github.io" && data.fork != true)
   return (
     <Layout>
       <Helmet>
