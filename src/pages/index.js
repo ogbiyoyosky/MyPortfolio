@@ -31,10 +31,9 @@ const IndexPage = ({
     .then(res=> res.json())
     .then((data)=>{
       setRepos(data)
-      console.log(repos)
     }).catch(error => console.log(error))
   }, [])
-  const slicedRepo = repos.filter((data) => data.name != "instachaw.github.io" && data.fork != true)
+  const slicedRepo = repos.filter((data) => data.name != "instachaw.github.io" && data.fork != true && data.name != '')
   return (
     <Layout>
       <Helmet>
