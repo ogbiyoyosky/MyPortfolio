@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
+
 import "./index.css"
 
 const IndexPage = ({
@@ -24,8 +25,7 @@ const IndexPage = ({
     fetch(`https://api.github.com/users/ogbiyoyosky/repos`,{
       method: "GET",
       headers: {
-        Accept: "application/vnd.github.cloak.preview",
-        authorization: "token 13bb3c8f9548740b8e1602fd6b5be2cf06dcbc23"
+        Accept: "application/vnd.github.cloak.preview"
       }
     })
     .then(res=> res.json())
