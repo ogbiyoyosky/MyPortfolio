@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /NodeJs
+path: /Bulding-a-simple-cli-app
 date: 2020-02-20T14:59:36.571Z
 title: Building a simple CLI Application.
 metaDescription: A Command Line Interface application for cryptocurrency price checking
