@@ -133,6 +133,11 @@ a {
   height: 100%;
 }
 
+@media(max-width: 768px) { .github-repo_grid {
+  grid-template-columns: repeat(1, 1fr);
+}
+}
+
 img,
 svg,
 video {
