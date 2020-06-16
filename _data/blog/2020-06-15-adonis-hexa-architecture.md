@@ -1,9 +1,9 @@
 ---
 template: BlogPost
-path: /NodeJs
+path: /adonis-hexa-architectural-pattern
 date: 2018-02-07T10:22:57.481Z
 title: Adonis Hexa Architecture
-metaDescription: A Command Line Interface application for cryptocurrency price checking.
+metaDescription: Adonis Hexa architectural pattern
 thumbnail: /assets/ULymZgTLGLwUSv7ADBQh_building-cli-apps-with-node.webp
 ---
 #### Repository
