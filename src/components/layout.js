@@ -20,7 +20,7 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/"><img style={{color: '#000',  width: '150px'}} src={logo}/></Link>
+          <Link to="/"><img style={{fill: '#d3d6e7',  width: '150px'}} src={logo}/></Link>
         </div>
         <Navigation />
       </header>
