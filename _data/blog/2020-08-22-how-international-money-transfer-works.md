@@ -35,7 +35,7 @@ Fedwire can do something called a "real time gross settlement" which simply mean
 
 ICHIPS on the other hand,  does a "net settlement on a periodic basis" which is fancy talk for a transfer that does not happen immediately but instead shows up after a certain period of time (could be a day or a week).
 
-![](/assets/funds transfer.jpeg)
+![Bank transfer flow](/assets/funds transfer.jpeg "Bank transfer flow")
 
 fig 1- A flow diagram for international money transfer.
 
