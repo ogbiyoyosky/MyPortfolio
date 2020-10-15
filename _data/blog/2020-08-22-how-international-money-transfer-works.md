@@ -3,6 +3,7 @@ template: BlogPost
 path: /how-money-transfer-work
 date: 2020-08-22T08:15:23.353Z
 title: How international money transfer works.
+thumbnail: /assets/funds transfer.jpeg
 ---
 How do banks transfer money from one country to another ? It's magical when your friend, Brandon who lives in the U.S receives $100 when you meet your local bank and send ₦38,900. To make sense out of this, let's first take a little history lesson. 
 
