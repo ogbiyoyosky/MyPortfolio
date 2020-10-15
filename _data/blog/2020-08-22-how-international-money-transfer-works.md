@@ -35,7 +35,7 @@ Fedwire can do something called a "real time gross settlement" which simply mean
 
 ICHIPS on the other hand,  does a "net settlement on a periodic basis" which is fancy talk for a transfer that does not happen immediately but instead shows up after a certain period of time (could be a day or a week).
 
-![](https://www.evernote.com/shard/s731/res/efab75dd-a2c3-5212-4a21-dbd3459e0997)
+![](/assets/funds transfer.jpeg)
 
 fig 1- A flow diagram for international money transfer.
 
@@ -47,8 +47,7 @@ You might be wondering, "What is a Swift Code or BIC?" . A SWIFT code is kinda l
 
 Deutsche Bank  is an international bank with its head office in Frankfurt, Germany with DEUTDEFF as its SWIFT code. To understand how Deutsche Bank coined a SWIFT code, let's look at the parts of Deutsche Bank's SWIFT code:
 
-DEUT  stands for Deutsche Bank. DE  is the country code for Germany.
-FF  is the code for Frankfurt.
+DEUT  stands for Deutsche Bank. DE  is the country code for Germany. FF  is the code for Frankfurt.
 
 If you see a Deutsche Bank SWIFT code, DEUTDEFF500, then the 500 is a branch or area code for a specific office, in this case the Deutsche Bank in the city of Bad Homburg.
 
@@ -100,5 +99,4 @@ Customer service is the final stage in the value chain of money transfer activit
 
 **Resources**
 
-https://www.simple.com/blog/international-money-transfers https://www.quora.com/How-does-money-transfer-between-banks-and-different-countries-work
-https://en.wikipedia.org/wiki/Wire_transfer
+https://www.simple.com/blog/international-money-transfers https://www.quora.com/How-does-money-transfer-between-banks-and-different-countries-work https://en.wikipedia.org/wiki/Wire_transfer
