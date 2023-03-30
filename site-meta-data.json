@@ -4,6 +4,6 @@
   "description": "My Portfolio",
   "home": {
     "title": "Hi! I'm Emmanuel Ogbiyoyo",
-    "description": "\n\n![Emmanuel's photo](/assets/img_0262.jpg)\n\n\\\nI've worked for different companies across the globe in eCommerce, fintech, insurance blogging, done interesting freelance work as part of the collective Hello world, and now i currently work in Tryslide, Saudi Arabia as a Platform Engineer . I Have worked with various technologies such as AdonisJs(NodeJs), ExpressJs, ReactJS, Laravel, RabbitMq Python. I have Built a couple of fintech applications, educational and ecommerce applications."
+    "description": "I've worked for different companies across the globe in eCommerce, fintech, insurance and have done interesting freelance work as part of the collective Hello world, I currently work in Tryslide, Saudi Arabia as a Platform Engineer . I Have worked with various technologies such as AdonisJs(NodeJs), ExpressJs, ReactJS, Laravel, RabbitMq Python. I have Built a couple of fintech applications, educational and ecommerce applications."
   }
 }
